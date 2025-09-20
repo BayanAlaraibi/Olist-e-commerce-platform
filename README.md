@@ -30,7 +30,7 @@ Python
 Power BI
 # Key Findings from the Analysis
 - Seller Performance and Deals: Out of 8,000 total deals, only 843 were closed in 2018, which represents 13% of the total deals.
-  <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/727ef101-291f-4ed5-93c5-1e5776ae52cc" />
+  <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/2f40e39b-7e2f-44a8-95e0-4d9dbea8cc35" />
 - Geographic Sales Distribution: The city of São Paulo has the highest total sales, followed by Rio de Janeiro and Belo Horizonte.
   <img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/d1985823-3f88-4c37-a5d0-5f372218200d" />
 - most sellers are coming from organic search orgin.
