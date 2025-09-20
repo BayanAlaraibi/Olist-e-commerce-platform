@@ -2,7 +2,7 @@
 Olist E-commerce Sellers Performance Analysis
 # Project Overview
 This project, implemented by a team of junior data analysts at General Assembly, is a simple data analytics training project focused on helping Olist, a Brazilian e-commerce platform, better understand its business performance and customer behavior. The primary goal is to transition from a reactive seller management model to a proactive one by analyzing seller behavior to identify and empower high-quality sellers, while eliminating underperforming sellers, and transforming the data into useful information to support business decisions.
-This analysis focuses specifically on the seller side of the business.
+This analysis focuses specifically on the seller side of the business, with agile team file.
 # Learning Objectives
 - Utilize the data analytics workflow within an agile development framework.
 - Transform raw data into useful information to support strategic business decisions.
