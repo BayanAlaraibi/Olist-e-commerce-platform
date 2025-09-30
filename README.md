@@ -35,7 +35,7 @@ closed_deals_dataset.csv and marketing_qualified_leads.csv
   <img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/d1985823-3f88-4c37-a5d0-5f372218200d" />
 - Most sellers are coming from organic search orgin.
   <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/fbf309c4-cd85-4d74-a139-68e72e50829e" />
-- Sool_Stuff is the best ordered category.
+- Cool_Stuff is the best ordered category.
   <img width="1917" height="1014" alt="image" src="https://github.com/user-attachments/assets/d17413a6-5c50-4ded-a14b-5f14e27dfb61" />
 - Identify the best sellers in term of orders and positive reviews.
   <img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/7455f1ca-f486-4f5c-8015-af463bb991c7" />
