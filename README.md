@@ -18,19 +18,19 @@ Marketing Funnel Data: Includes marketing and sales funnel data to assess acquis
 closed_deals_dataset.csv and marketing_qualified_leads.csv
 [Data Source 2](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 ## Skills & Tools
-analytics workflow, including:
-- Framing Questions
-- Data Cleaning & Processing
-- Data Visualization
-- Data Communication
-- Data Modeling: Applying analytical techniques to the datasets.
-The primary tools utilized were:
-Excel
-Python
-Power BI
+- Analytics workflow, including:
+  - Framing Questions
+  - Data Cleaning & Processing
+  - Data Visualization
+  - Data Communication
+  - Data Modeling: Applying analytical techniques to the datasets.
+-The primary tools utilized were:
+  - Excel
+  - Python
+  - Power BI
 ## Key Findings from the Analysis
-- Seller Performance and Deals: Out of 8,000 total deals, only 843 were closed in 2018, which represents 13% of the total deals.
-  <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/2f40e39b-7e2f-44a8-95e0-4d9dbea8cc35" />
+- Olist Enployees Performance: Out of 8,000 total deals, only 843 were closed in 2018, which represents 13% of the total deals.23 employess were responsible to close the deals with sellers, some of them were working efficiently (closing many deals in short time period) while others were not.
+ <img width="910" height="508" alt="Screenshot 2025-09-30 at 1 38 33 pm" src="https://github.com/user-attachments/assets/2ca0a56b-84ff-4f5b-af9d-e5468e4938f6" />
 - Geographic Sales Distribution: The city of São Paulo has the highest total sales, followed by Rio de Janeiro and Belo Horizonte.
   <img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/d1985823-3f88-4c37-a5d0-5f372218200d" />
 - most sellers are coming from organic search orgin.
