@@ -31,18 +31,24 @@ closed_deals_dataset.csv and marketing_qualified_leads.csv
 ## Key Findings from the Analysis
 - Olist Enployees Performance: Out of 8,000 total deals, only 843 were closed in 2018, which represents 13% of the total deals.23 employess were responsible to close the deals with sellers, some of them were working efficiently (closing many deals in short time period) while others were not.
  <img width="910" height="508" alt="Screenshot 2025-09-30 at 1 38 33 pm" src="https://github.com/user-attachments/assets/2ca0a56b-84ff-4f5b-af9d-e5468e4938f6" />
+ 
 - Geographic Sales Distribution: The city of São Paulo has the highest total sales, followed by Rio de Janeiro and Belo Horizonte.
   <img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/d1985823-3f88-4c37-a5d0-5f372218200d" />
+  
 - Most sellers are coming from organic search orgin.
   <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/fbf309c4-cd85-4d74-a139-68e72e50829e" />
-- Cool_Stuff is the best ordered category.
+  
+- Cool_Stuff is the best ordered category
   <img width="1917" height="1014" alt="image" src="https://github.com/user-attachments/assets/d17413a6-5c50-4ded-a14b-5f14e27dfb61" />
-- Identify the best sellers in term of orders and positive reviews.
+  
+- Identify the best sellers in term of orders and positive reviews
   <img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/7455f1ca-f486-4f5c-8015-af463bb991c7" />
+  
 ## Recommendations
 - Engage Top Sellers: Contact top-performing sellers to make them brand ambassadors.
 - Geographic Expansion: Increase the number of sellers in states with the lowest seller-to-population ratio.
 - Product Recommendations: Recommend high-demand products to sellers in new or low-seller states.
 - Sales Team Expansion: Expand the sales team to facilitate faster deal closures.
+  
 ## Analysis details
   [Analysis](https://drive.google.com/drive/folders/1-lDx0cHh_5mlDG5J6YE5gbn3qW5myXsr?usp=drive_link)
